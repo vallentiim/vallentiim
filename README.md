@@ -1,7 +1,7 @@
 ### Olá! Muito prazer, meu nome é Kléber Matheus 😎
 
 - 🐱‍👤 Atualmente a área que tenho mais conhecimento, é na linguagem PYTHON e POSTGRESQL
-- 🐱‍💻 Estudando front-end / JavaScript, Html e CSS. 
+- 🐱‍💻 Estudando front-end / JavaScript, HTML5 e CSS. 
 - 🌱 Cursando Ciência da Computação
 - 🐱‍🏍 Email para contato: matheusvalentim528@gmail.com
 
