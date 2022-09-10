@@ -1,6 +1,6 @@
 ### Olá! Muito prazer, meu nome é Kléber Matheus 😎
 
-- 🐱‍👤 Atualmente a área que tenho mais conhecimento, é na linguagem PYTHON
+- 🐱‍👤 Atualmente a área que tenho mais conhecimento, é na linguagem PYTHON e POSTGRESQL
 - 🐱‍💻 Estudando front-end / JavaScript, Html e CSS. 
 - 🌱 Cursando Ciência da Computação
 - 🐱‍🏍 Email para contato: matheusvalentim528@gmail.com
@@ -22,10 +22,11 @@
 **Principais linguagens**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kleber-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kleber-SQL" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Kleber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kleber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
