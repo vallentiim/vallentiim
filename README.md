@@ -8,6 +8,7 @@
 <div align="center">
   <a href="https://github.com/Hagetsu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hagetsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagetsu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -15,8 +16,7 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-  
+    
 ##
 
 **Principais linguagens**
