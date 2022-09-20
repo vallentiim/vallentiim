@@ -2,7 +2,7 @@
 
 - 🐱‍👤 Atualmente a área que tenho mais conhecimento, é na linguagem PYTHON e POSTGRESQL
 - 🐱‍💻 Estudando front-end / JavaScript, HTML5 e CSS. 
-- 🌱 Cursando Ciência da Computação
+- 🌱 Cursando Ciência da Computação 2/8
 - 🐱‍🏍 Email para contato: matheusvalentim528@gmail.com
 
 <div align="center">
