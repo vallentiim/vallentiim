@@ -25,6 +25,6 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=007ACC)
 ![POSTGRESQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor)
 
