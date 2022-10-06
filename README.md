@@ -27,4 +27,3 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=007ACC)
 ![POSTGRESQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor)
-
