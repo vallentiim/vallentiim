@@ -1,9 +1,9 @@
 ### Olá! Muito prazer, meu nome é Kléber Matheus 😎
 
-- 🐱‍👤 Atualmente a área que tenho mais conhecimento, é na linguagem PYTHON
-- 🐱‍💻 Estudando front-end | JavaScript, HTML5 & CSS. 
-- 🌱 Cursando Ciência da Computação (2º período)
-- 🐱‍🏍 Email para contato: matheusvalentim528@gmail.com
+- 🐱‍👤 **Atualmente a área que tenho mais conhecimento, é na linguagem PYTHON.**
+- 🐱‍💻 **Estudando front-end | JavaScript, HTML5 & CSS.** 
+- 🌱 **Cursando Ciência da Computação (2º período)**
+- 🐱‍🏍 **Email para contato: matheusvalentim528@gmail.com**
 
 <div align="center">
   <a href="https://github.com/valentimdev">
