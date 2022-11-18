@@ -25,7 +25,6 @@
 **Linguagens**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c&logoColor)
 
 ##
 
