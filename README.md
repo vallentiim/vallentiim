@@ -15,10 +15,9 @@
 
 **Ferramentas de Desenvolvimento**
 
-  <div style="display: inline_block">
-  <img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  ![VSC](https://img.shields.io/badge/-VS%20Code-blue?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)
+  ![Figma](https://img.shields.io/badge/-Figma-black?logo=Figma&logoColor=white&style=for-the-badge)
+  ![Git](https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=for-the-badge)
     
 </div>
     
@@ -26,23 +25,18 @@
 
 **Linguagens**
 
-<div style="display: inline_block">
-  <img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-</div>
+  ![Python](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white&style=for-the-badge)
   
 ##
 
 **Web**
 
-<div style="display: inline_block">
-  <img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=for-the-badge)
+  ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=HTML5&logoColor=white&style=for-the-badge)
+  ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=CSS3&logoColor=white&style=for-the-badge)
 
 ##
 
 **Banco de Dados**
 
-<div style="display: inline_block">
-  <img align="center" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&logoColor=4479A1&style=for-the-badge)
