@@ -18,6 +18,7 @@
   ![VSC](https://img.shields.io/badge/-VS%20Code-blue?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)
   ![Figma](https://img.shields.io/badge/-Figma-black?logo=Figma&logoColor=white&style=for-the-badge)
   ![Git](https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=for-the-badge)
+  ![Discord](https://img.shields.io/badge/-Discord-purple?logo=Discord&logoColor=white&style=for-the-badge)
     
 </div>
     
