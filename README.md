@@ -33,7 +33,7 @@
 
 **Web**
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=for-the-badge)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=HTML5&logoColor=white&style=for-the-badge)
   ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=CSS3&logoColor=white&style=for-the-badge)
 
