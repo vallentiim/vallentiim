@@ -16,10 +16,10 @@
 **Ferramentas de Desenvolvimento**
 
   ![VSC](https://img.shields.io/badge/-VS%20Code-%23323330?logo=Visual%20Studio%20Code&logoColor=blue&style=for-the-badge)
-  ![Figma](https://img.shields.io/badge/-Figma-black?logo=Figma&logoColor=red&style=for-the-badge)
-  ![Git](https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=for-the-badge)
-  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-  ![Discord](https://img.shields.io/badge/-Discord-4169e1?logo=Discord&logoColor=white&style=for-the-badge)
+  ![Figma](https://img.shields.io/badge/-Figma-%23323330?logo=Figma&logoColor=red&style=for-the-badge)
+  ![Git](https://img.shields.io/badge/-Git-%23323330?logo=Git&logoColor=orange&style=for-the-badge)
+  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=%23323330&logo=GitHub&logoColor=FFFFFF&label=)
+  ![Discord](https://img.shields.io/badge/-Discord-%23323330?logo=Discord&logoColor=white&style=for-the-badge)
     
 </div>
     
@@ -27,18 +27,18 @@
 
 **Linguagens**
 
-  ![Python](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white&style=for-the-badge)
+  ![Python](https://img.shields.io/badge/-Python-%23323330?logo=Python&logoColor=blue&style=for-the-badge)
   
 ##
 
 **Web**
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=HTML5&logoColor=white&style=for-the-badge)
-  ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=CSS3&logoColor=white&style=for-the-badge)
+  ![HTML5](https://img.shields.io/badge/-HTML5-%23323330?logo=HTML5&logoColor=orange&style=for-the-badge)
+  ![CSS3](https://img.shields.io/badge/-CSS3-%23323330?logo=CSS3&logoColor=blue&style=for-the-badge)
 
 ##
 
 **Banco de Dados**
 
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&logoColor=4479A1&style=for-the-badge)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23323330?logo=PostgreSQL&logoColor=4479A1&style=for-the-badge)
