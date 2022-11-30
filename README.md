@@ -19,7 +19,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-%23323330?logo=Figma&logoColor=red&style=for-the-badge)
   ![Git](https://img.shields.io/badge/-Git-%23323330?logo=Git&logoColor=orange&style=for-the-badge)
   ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=%23323330&logo=GitHub&logoColor=FFFFFF&label=)
-  ![Discord](https://img.shields.io/badge/-Discord-%23323330?logo=Discord&logoColor=white&style=for-the-badge)
+  ![Discord](https://img.shields.io/badge/-Discord-%23323330?logo=Discord&logoColor=4169e1&style=for-the-badge)
     
 </div>
     
