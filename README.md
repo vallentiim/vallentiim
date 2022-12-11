@@ -1,9 +1,9 @@
-### Olá! Muito prazer, meu nome é Kléber Matheus 😎
+### Hi! Nice to meet you, my name is Kléber Matheus 😎
 
-- 🐱‍👤 **Atualmente a área que tenho mais conhecimento, é na linguagem PYTHON.**
-- 🐱‍💻 **Estudando front-end | JavaScript, HTML5 & CSS.** 
-- 🌱 **Cursando Ciência da Computação (3º período)**
-- 🐱‍🏍 **Email para contato: matheusvalentim528@gmail.com**
+- 🐱‍👤 **Currently the area that I have more knowledge is in the PYTHON language.**
+- 🐱‍💻 **Studying front end | JavaScript, HTML5 & CSS.** 
+- 🌱 **Studying Computer Science (3º period)**
+- 🐱‍🏍 **Contact email: matheusvalentim528@gmail.com**
 
 <div align="center">
   <a href="https://github.com/vallentiim">
@@ -13,7 +13,7 @@
 
 ##
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![VSC](https://img.shields.io/badge/-VS%20Code-%23323330?logo=Visual%20Studio%20Code&logoColor=blue&style=for-the-badge)
   ![Figma](https://img.shields.io/badge/-Figma-%23323330?logo=Figma&logoColor=red&style=for-the-badge)
@@ -25,7 +25,7 @@
     
 ##
 
-**Linguagens**
+**Languages**
 
   ![Python](https://img.shields.io/badge/-Python-%23323330?logo=Python&logoColor=blue&style=for-the-badge)
   
@@ -39,6 +39,6 @@
 
 ##
 
-**Banco de Dados**
+**Database**
 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23323330?logo=PostgreSQL&logoColor=4479A1&style=for-the-badge)
