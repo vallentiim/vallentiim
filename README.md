@@ -36,8 +36,3 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-%23323330?logo=HTML5&logoColor=orange&style=for-the-badge)
   ![CSS3](https://img.shields.io/badge/-CSS3-%23323330?logo=CSS3&logoColor=blue&style=for-the-badge)
 
-##
-
-**Database**
-
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23323330?logo=PostgreSQL&logoColor=4479A1&style=for-the-badge)
