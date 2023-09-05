@@ -1,6 +1,6 @@
 ### Hi! Nice to meet you, my name is Valentim 😎
 
-- 🐱‍👤 **Currently the area that I have more knowledge is in the JavaScript language.**
+- 🐱‍👤 **Currently the area that I have more knowledge is in the Python language.**
 - 🌱 **Studying Computer Science (3º period)**
 - 🐱‍🏍 **Contact email: matheusvalentim528@gmail.com**
 
