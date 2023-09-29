@@ -28,10 +28,3 @@
   ![Python](https://img.shields.io/badge/-Python-%23323330?logo=Python&logoColor=blue&style=for-the-badge)
   
 ##
-
-**Web**
-
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/-HTML5-%23323330?logo=HTML5&logoColor=orange&style=for-the-badge)
-  ![CSS3](https://img.shields.io/badge/-CSS3-%23323330?logo=CSS3&logoColor=blue&style=for-the-badge)
-
