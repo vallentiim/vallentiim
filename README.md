@@ -1,7 +1,7 @@
 ### Hi! Nice to meet you, my name is Matheus 😎
 
 - 🐱‍👤 **Currently the area that I have more knowledge is in the Python language.**
-- 🌱 **Studying Computer Science (3º period)**
+- 🌱 **Studying Computer Science (4º period)**
 - 🐱‍🏍 **Contact email: matheusvalentim528@gmail.com**
 
 <div align="center">
