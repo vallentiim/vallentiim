@@ -1,4 +1,4 @@
-### Hi! Nice to meet you, my name is Kléber Matheus 😎
+### Hi! Nice to meet you, my name is Matheus 😎
 
 - 🐱‍👤 **Currently the area that I have more knowledge is in the Python language.**
 - 🌱 **Studying Computer Science (4º period)**
