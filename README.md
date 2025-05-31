@@ -14,7 +14,7 @@
 **Development Tools**
 
   ![VSC](https://img.shields.io/badge/-VS%20Code-%23323330?logo=Visual%20Studio%20Code&logoColor=blue&style=for-the-badge)
-  ![Python](https://img.shields.io/badge/-JavaScript-%23323330?logo=JavaScript&logoColor=blue&style=for-the-badge)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?logo=JavaScript&logoColor=yellow&style=for-the-badge)
   ![Figma](https://img.shields.io/badge/-Figma-%23323330?logo=Figma&logoColor=red&style=for-the-badge)
   ![Git](https://img.shields.io/badge/-Git-%23323330?logo=Git&logoColor=orange&style=for-the-badge)
   ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=%23323330&logo=GitHub&logoColor=FFFFFF&label=)
