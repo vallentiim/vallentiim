@@ -1,6 +1,6 @@
 ### Hi! Nice to meet you, my name is Valentim 😎
 
-- 🐱‍👤 **Currently the area that I have more knowledge is in the Python language.**
+- 🐱‍👤 **Currently studying cybersecurity and progressing in Python.**
 - 🌱 **Studying Computer Science (6º period)**
 - 🐱‍🏍 **Contact email: matheusvalentim528@gmail.com**
 
@@ -13,10 +13,9 @@
 
 **Development Tools**
 
-  ![VSC](https://img.shields.io/badge/-VS%20Code-%23323330?logo=Visual%20Studio%20Code&logoColor=blue&style=for-the-badge)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?logo=JavaScript&logoColor=yellow&style=for-the-badge)
-  ![Figma](https://img.shields.io/badge/-Figma-%23323330?logo=Figma&logoColor=red&style=for-the-badge)
-  ![Git](https://img.shields.io/badge/-Git-%23323330?logo=Git&logoColor=orange&style=for-the-badge)
+  ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
   ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=%23323330&logo=GitHub&logoColor=FFFFFF&label=)
   ![Discord](https://img.shields.io/badge/-Discord-%23323330?logo=Discord&logoColor=4169e1&style=for-the-badge)
     
