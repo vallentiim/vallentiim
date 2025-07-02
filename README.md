@@ -12,8 +12,9 @@
 ##
 
 **Development Tools**
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+  ![Python](https://img.shields.io/badge/python-FFFFFF&?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Kali](https://img.shields.io/badge/Kali-FFFFFF&?style=for-the-badge&logo=kalilinux&logoColor=white)
   ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=%23323330&logo=GitHub&logoColor=FFFFFF&label=)
   ![Discord](https://img.shields.io/badge/-Discord-%23323330?logo=Discord&logoColor=4169e1&style=for-the-badge)
     
