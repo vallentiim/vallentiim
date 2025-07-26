@@ -1,8 +1,8 @@
 ### Hi! Nice to meet you, my name is Valentim 😎
 
-- 🐱‍👤 **Currently studying cybersecurity and progressing in Python.**
+- 😺 **Currently studying cybersecurity and progressing in Python.**
 - 🌱 **Studying Computer Science (7º period)**
-- 🐱‍🏍 **Contact email: matheusvalentim528@gmail.com**
+- 😺 **Contact email: matheusvalentim528@gmail.com**
 
 
 
