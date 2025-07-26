@@ -1,7 +1,7 @@
 ### Hi! Nice to meet you, my name is Matheus 😎
 
 - 😺 **Currently studying cybersecurity and progressing in Python.**
-- 🌱 **Studying Computer Science (7º period)**
+- 🌱 **Studying Computer Science (7º semester)**
 - 😺 **Contact email: matheusvalentim528@gmail.com**
 
 
