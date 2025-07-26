@@ -4,12 +4,7 @@
 - 🌱 **Studying Computer Science (7º period)**
 - 🐱‍🏍 **Contact email: matheusvalentim528@gmail.com**
 
-<div align="center">
-  <a href="https://github.com/vallentiim">
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallentiim&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-##
 
 **Development Tools**
 
