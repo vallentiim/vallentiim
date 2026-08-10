@@ -1,7 +1,7 @@
 ### Hi! Nice to meet you, my name is Kléber 😎
 
-- 😺 **Currently studying and progressing in Python.**
-- 🌱 **Studying Computer Science (7º semester)**
+- 😺 **Currently studying and progressing in Python and CyberSecurity.**
+- 🌱 **Studying Computer Science (8º semester)**
 - 😺 **Contact email: matheusvalentim528@gmail.com**
 
 
