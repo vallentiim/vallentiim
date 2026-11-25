@@ -1,17 +1,17 @@
 ### Hi! Nice to meet you, my name is Kléber 😎
 
-- 😺 **Currently studying and progressing in Python and CyberSecurity.**
-- 🌱 **Studying Computer Science (8º semester)**
-- 😺 **Contact email: matheusvalentim528@gmail.com**
+- **Currently studying and progressing in Python and CyberSecurity.**
+- **Studying Computer Science (8º semester)**
+- **Contact email: matheusvalentim528@gmail.com**
 
 
 
 **Development Tools**
 
   ![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23323330?style=for-the-badge&logo=PostgreSQL&logoColor=blue)
-  ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=%23323330&logo=GitHub&logoColor=FFFFFF&label=)
+  ![Linux](https://img.shields.io/badge/-Linux-%23323330?logo=Linux&logoColor=white&style=for-the-badge)
   ![Discord](https://img.shields.io/badge/-Discord-%23323330?logo=Discord&logoColor=4169e1&style=for-the-badge)
+  ![Apache](https://img.shields.io/badge/apache-%23323330.svg?style=for-the-badge&logo=apache&logoColor=white)
     
 </div>
     
